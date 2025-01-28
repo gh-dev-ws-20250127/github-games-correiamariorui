@@ -9,4 +9,6 @@ You can play the game at: https://gh-dev-ws-20250127.github.io/github-games-corr
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-aaa
+
+ok
+
